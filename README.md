@@ -118,7 +118,7 @@
         
         <nav>
             <a href="#contact">Contact</a>
-            <a href="https://www.instagram.com/cinematic_ak_00/"><img src="https://img.icons8.com/ios7/1200/instagram-new--v1.jpg" width="10"  alt=""></a>
+            <a href="https://www.instagram.com/cinematic_ak_00/"><img src="https://img.icons8.com/ios7/1200/instagram-new--v1.jpg" width="20"  alt=""></a>
         </nav>
         
        
