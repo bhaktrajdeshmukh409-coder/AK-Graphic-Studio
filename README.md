@@ -140,7 +140,7 @@
             
 
             <div class="product-card">
-                <a href="https://ibb.co/Lh5LwLm9"><img src="https://i.ibb.co/4gd6y6z4/Whats-App-Image-2025-12-15-at-09-10-34-fbc8e08e.jpg" alt="Whats-App-Image-2025-12-15-at-09-10-34-fbc8e08e" border="0"></a>
+                <img src="https://i.ibb.co/4gd6y6z4/Whats-App-Image-2025-12-15-at-09-10-34-fbc8e08e.jpg" alt="Whats-App-Image-2025-12-15-at-09-10-34-fbc8e08e" border="0"></a>
 
                 <h3>SOCIAL MEDIA VIDEO CREATOR</h3>
                 
@@ -148,21 +148,21 @@
             </div>
 
             <div class="product-card">
-                <a href="https://ibb.co/jPWGG1jW"><img src="https://i.ibb.co/8Ld22SQd/Whats-App-Image-2025-12-15-at-09-22-01-a1271890.jpg" alt="Whats-App-Image-2025-12-15-at-09-22-01-a1271890" border="0" /></a>
+                <img src="https://i.ibb.co/8Ld22SQd/Whats-App-Image-2025-12-15-at-09-22-01-a1271890.jpg" alt="Whats-App-Image-2025-12-15-at-09-22-01-a1271890" border="0" /></a>
                 <h3>LAGNA PATRIKA</h3>
                 <p> High Quality.</p>
                 <a href="LAGNA PATRIKA.html"><button>See Now</button></a>
             </div>
 
             <div class="product-card">
-                <a href="https://ibb.co/jkj2SdS6"><img src="https://i.ibb.co/MkJ4mbm2/Whats-App-Image-2025-12-15-at-09-10-34-4fdc46ec.jpg" alt="Whats-App-Image-2025-12-15-at-09-10-34-4fdc46ec" border="0" /></a>
+                <img src="https://i.ibb.co/MkJ4mbm2/Whats-App-Image-2025-12-15-at-09-10-34-4fdc46ec.jpg" alt="Whats-App-Image-2025-12-15-at-09-10-34-4fdc46ec" border="0" /></a>
                 <h3>CINEMATIC RELL</h3>
                 <p> High Quality .</p>
                 
             </div>
 
             <div class="product-card">
-               <a href="https://ibb.co/DBNSH9j"><img src="https://i.ibb.co/jCd1Pyj/Whats-App-Image-2025-12-15-at-09-22-00-c0cab982.jpg" alt="Whats-App-Image-2025-12-15-at-09-22-00-c0cab982" border="0"></a>
+               <img src="https://i.ibb.co/jCd1Pyj/Whats-App-Image-2025-12-15-at-09-22-00-c0cab982.jpg" alt="Whats-App-Image-2025-12-15-at-09-22-00-c0cab982" border="0"></a>
                 <h3>Graphic</h3>
                 <p> High Quality.</p>
                 
